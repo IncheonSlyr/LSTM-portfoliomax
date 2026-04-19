@@ -1,0 +1,16 @@
+NodeID,Name,Type,Performance,Collaboration,Resources,GrowthLabel
+0,Student_A,Student,8,7,6,1
+1,Student_B,Student,6,5,7,0
+2,Student_C,Student,9,8,9,1
+3,Student_D,Student,7,6,5,0
+4,Student_E,Student,5,6,4,0
+5,Teacher_F,Teacher,8,7,8,1
+6,Teacher_G,Teacher,9,9,9,1
+7,Student_H,Student,4,5,4,0
+8,Student_I,Student,6,6,5,0
+9,Teacher_J,Teacher,7,8,7,1
+10,Dept_K,Department,5,5,5,0
+11,Dept_L,Department,8,9,8,1
+12,Student_M,Student,6,4,6,0
+13,Teacher_N,Teacher,7,6,7,1
+14,Dept_O,Department,9,9,8,1

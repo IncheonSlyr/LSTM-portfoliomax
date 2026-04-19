@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+yfinance
+
+# Optional: enables the LSTM forecaster instead of the EWMA fallback.
+tensorflow
+
